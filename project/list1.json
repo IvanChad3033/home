@@ -1,0 +1,22 @@
+[
+  {
+    "id_buyer": 1,
+    "buyer_name": "Муссолини"
+  },
+  {
+    "id_buyer": 2,
+    "buyer_name": "Сталин"
+  },
+  {
+    "id_buyer": 3,
+    "buyer_name": "Гитлер"
+  },
+  {
+    "id_buyer": 4,
+    "buyer_name": "Рузвельт"
+  },
+  {
+    "id_buyer": 5,
+    "buyer_name": "Шарль Де Голь"
+  }
+]
